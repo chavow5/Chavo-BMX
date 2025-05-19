@@ -1,12 +1,43 @@
-# React + Vite
+# 🚴‍♂️ Chavo BMX - Sitio Web Profesional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido al sitio web de **Chavo David Ramírez**! Soy corredor profesional de BMX y aquí podrás conocer mi trayectoria, logros, experiencias internacionales y mantenerte al tanto de mis próximas competencias.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React VITE**
+- **Tailwind CSS**
+- **JavaScript**
+- **Node.js**
+- **HTML5 & CSS3**
+- **GitHub**
 
-## Expanding the ESLint configuration
+## 🧩 Secciones del Sitio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Inicio**: Presentación y bienvenida.
+- **Sobre Mí**: Información sobre mi carrera como corredor profesional de BMX.
+- **Historial**: CV deportivo, títulos y competencias importantes.
+- **Países**: Experiencias internacionales, banderas, imágenes y resultados destacados.
+- **YouTube**: Acceso directo a mi canal y videos destacados.
+- **Contacto**: Formulario o enlaces para contactarme y redes sociales.
+- **Footer**: Accesos rápidos y enlaces extra.
+
+## 📸 Galería
+
+> Próximamente...
+
+## 📬 Contacto
+
+- 📱 Instagram: [@chavo_bmx](https://instagram.com/chavo_bmx)
+- 📧 Email: chavo.bmx@gmail.com
+- 🌐 [Sitio Web Oficial](https://chavo-bmx.vercel.app/)
+- 📺 [YouTube](https://youtube.com/@chavo_bmx)
+
+## 📌 Notas
+
+- Este proyecto busca compartir mi pasión por el BMX, inspirar a nuevos atletas y mantener informada a la comunidad sobre mis actividades.
+- Próximamente se agregarán nuevas secciones, fotos y videos exclusivos.
+
+---
+
+**¡Gracias por visitar mi sitio!**  
+¡Nos vemos en la pista!
