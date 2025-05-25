@@ -1,6 +1,6 @@
 import Header from './components/Header'
-// import Footer from './components/Footer
-import FormularioTrabajoTecnico from './components/FormularioTrabajoTecnico'
+import Footer from './components/Footer'
+
 
 function App() {
   return (
@@ -8,9 +8,9 @@ function App() {
       <Header />
       <div>
         {/* componentes */}
-        <FormularioTrabajoTecnico />
+        
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </>
   )
 }
