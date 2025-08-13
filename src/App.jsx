@@ -1,6 +1,9 @@
 import Header from './components/Header'
 import Footer from './components/Footer'
-import FormularioTrabajoTecnico from './components/FormularioTrabajoTecnico'
+import Home from './components/Home'
+import Aboutme from './components/Aboutme'
+
+
 
 
 function App() {
@@ -9,7 +12,9 @@ function App() {
       <Header />
       <div>
         {/* componentes */}
-        <FormularioTrabajoTecnico/>
+        <Home/>
+        <Aboutme/>
+        
         
       </div>
       <Footer />
