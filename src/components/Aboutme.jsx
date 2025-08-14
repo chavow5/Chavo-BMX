@@ -1,4 +1,4 @@
-import { motion } from "framer-motion"; // Asegúrate de importar motion
+import { motion } from "framer-motion"; 
 
 export default function Aboutme() {
     return (

@@ -2,6 +2,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import Home from './components/Home'
 import Aboutme from './components/Aboutme'
+import Historial from './components/Historial'
 
 
 
@@ -14,7 +15,7 @@ function App() {
         {/* componentes */}
         <Home/>
         <Aboutme/>
-        
+        <Historial/>
         
       </div>
       <Footer />

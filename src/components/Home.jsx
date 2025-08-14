@@ -1,12 +1,9 @@
 export default function Home() {
 return (
     <section
-        className="relative h-screen bg-cover bg-center flex items-center justify-center text-center px-4"
+        className="relative h-screen bg-cover bg-right md:bg-center flex items-center justify-center text-center px-4"
         style={{ backgroundImage: "url('/img/curvapro.jpg')" }} // tu imagen en public
     >
-        {/* Capa oscura para contraste */}
-        <div className="bg-black-400 absolute inset-0 bg-opacity-50"></div>
-
         {/* Contenido */}
         <div className="relative z-10 max-w-3xl">
             <h1
