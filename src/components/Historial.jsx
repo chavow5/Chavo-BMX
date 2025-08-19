@@ -4,33 +4,33 @@ import { motion } from "framer-motion";
 export const Historial = () => {
   const timeline = [
     {
-      year: "2007",
-      title: "Comienzo en BMX Racing",
+      year: "2008",
+      title: "Campeon Argentino Novicios de 7 años",
       description:
-        "A los 7 años inicié mi camino en el BMX racing, acompañado por mis padres en cada viaje por Argentina.",
+        "Un año después de iniciar en BMX, conseguí mi primer título nacional, siempre acompañado por mis padres en cada viaje por Argentina.",
     },
     {
       year: "2010",
-      title: "Primer Título Internacional",
+      title: "Campeon LatinoAmericano 2010",
       description:
         "Campeón Challenger categoría Boys 9 en San Bernardo, Chile.",
     },
     {
-      year: "2010 - 2016",
-      title: "7 veces Campeón Argentino",
+      year: "2012",
+      title: "Campeón Argentino",
       description:
-        "Sumé múltiples campeonatos provinciales y nacionales, consolidándome como referente.",
+        "Sumé algunos campeonatos provinciales y nacionales, consolidándome como referente. 2012 - 2013 - 2014 - 2015 - 2016 - 2017 - 2019 ",
     },
     {
       year: "2016",
-      title: "Mundial Challenger",
+      title: "Numero 6° Del mundo Challenger (Colombia)",
       description:
-        "Representé a Argentina y obtuve el puesto #6 del mundo en mi categoría.",
+        "Representé a Argentina y obtuve el puesto #6 del mundo en mi categoría Boys 15 en Colombia.",
     },
     {
       year: "2017",
-      title: "Mundial en Estados Unidos",
-      description: "Me ubiqué #5 del mundo en la máxima competencia internacional.",
+      title: "Numero 5° Del Mundo Challenger (Estados Unidos)",
+      description: "Me ubiqué #5 del mundo en mi categoria Boys 16 en Estados Unidos.",
     },
     {
       year: "2024",
@@ -53,7 +53,7 @@ export const Historial = () => {
           Mi Historial Deportivo
         </motion.h2>
         <p className="mt-4 text-gray-600">
-          Un recorrido lleno de pasión, esfuerzo y dedicación sobre dos ruedas.
+          A continuación se muestran algunos de mis títulos y logros destacados; el historial aun no esta Completo...
         </p>
       </div>
 
