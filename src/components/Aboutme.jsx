@@ -41,7 +41,7 @@ export default function Aboutme() {
                         viewport={{ once: true }}
                     >
                         <div className="grid grid-cols-2 gap-4">
-                            {['/img/saltotriple.jpg', '/img/saltopro.jpg', '/img/segundacurva.jpg', '/img/flia.jpeg'].map((src, i) => (
+                            {['/img/latinochile.png', '/img/campeonatosargentinos.png', '/img/n6.png', '/img/subcampeon.png'].map((src, i) => (
                                 <figure key={i} className="relative overflow-hidden rounded-xl shadow-lg">
                                     <img
                                         src={src}

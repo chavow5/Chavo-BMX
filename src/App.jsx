@@ -3,7 +3,7 @@ import Footer from './components/Footer'
 import Home from './components/Home'
 import Aboutme from './components/Aboutme'
 import Historial from './components/Historial'
-
+import Paises from './components/Paises'
 
 
 
@@ -16,6 +16,7 @@ function App() {
         <Home/>
         <Aboutme/>
         <Historial/>
+        <Paises/>
         
       </div>
       <Footer />
