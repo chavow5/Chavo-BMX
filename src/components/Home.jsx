@@ -2,7 +2,7 @@ export default function Home() {
 return (
     <section
         className="relative h-screen bg-cover bg-right md:bg-center flex items-center justify-center text-center px-4"
-        style={{ backgroundImage: "url('/img/curvapro.jpg')" }} // tu imagen en public
+        style={{ backgroundImage: "url('/img/curvapro2.jpg')" }} // tu imagen en public
     >
         {/* Contenido */}
         <div className="relative z-10 max-w-3xl">
